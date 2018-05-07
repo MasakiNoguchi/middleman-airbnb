@@ -1,0 +1,24 @@
+#team {
+  display: block;
+  padding: 20px;
+  align-items: center;
+  height: 50vh;
+  justify-content: space-around;
+  text-align: center;
+  font-size: 18px;
+}
+
+#team .img-circle {
+  display: flex;
+  align-items: center;
+  // right: 10px;
+  // top: 10px;
+  width: 80px;
+  border-radius: 50%;
+  justify-content: space-around;
+  text-align: center;
+}
+
+#team .img-circle h3 {
+  font-size: 40px;
+}
